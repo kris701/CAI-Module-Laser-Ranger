@@ -1,5 +1,5 @@
 # CAI-Module-Laser-Ranger
-This is a project about making an extension module for my Snapmaker Original printer. This is also an extension to [another of my projects](https://github.com/kris701/CAI), and is directly connected to it.
+This is a project about making an extension module for my Snapmaker Original printer. This is also an extension to [another of my projects](https://github.com/kris701/CAI), and is directly connected to it. It is also designed to be mounted on my [toolhead extension project](https://github.com/kris701/SnapMaker-Toolhead-Extensions).
 The purpose of this module is to making calibration of the Snapmaker Laser module easier, since it can be a bit of a pain to calibrate it every time you need to use it. Instead, this is a system where a little screen displays how far above the bed that the module is. This makes it a lot easier to calibrate is, as it removes the need to use that little calibration paper that comes with the printer.
 
 <p align="center">
