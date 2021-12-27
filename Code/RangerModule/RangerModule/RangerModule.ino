@@ -2,7 +2,7 @@
 #include <EEPROM.h>
 
 ScreenDriver screenDriver = ScreenDriver();
-#define sensorPin A0
+#define sensorPin A7
 #define sensorMaxValue 600
 #define screenHeight 32
 #define screenWidth 128
